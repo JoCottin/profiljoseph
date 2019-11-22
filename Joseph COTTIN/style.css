@@ -1,0 +1,141 @@
+body {
+	background-image: url(images/back.gif);
+    background-repeat:no-repeat;
+    background-size:cover;
+} 
+
+h1,h3 {
+	font-family: alata;
+	size: 12px;
+	position: center;
+	color: black;
+}
+
+.defileParent {
+	display: block;
+	margin: 3em auto;
+	overflow: hidden;
+	position: relative;
+	table-layout: fixed;
+	width: 700px;
+}
+
+.container {
+  display: flex;
+  align-content: center;
+  flex-wrap: wrap;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.cardred{
+	display: block;
+	height: 270px;
+	width: 300px;
+	background-color: #8b0500; 	
+	border-radius: 9px;
+	margin: 10px auto 10px auto;
+}
+
+.cardTV{
+	display: block;
+	height: 250px;
+	width: 400px;
+	background-image: url(images/TV.gif);
+	border-radius: 9px;
+	margin: 10px auto 10px auto;
+}
+
+.cardcomputer{
+	display: block;
+	height: 200px;
+	width: 400px;
+	background-image: url(images/computer.gif);
+	border-radius: 9px;
+	margin: 10px auto 10px auto;
+}
+
+.cardbeastie{
+	display: block;
+	height: 200px;
+	width: 350px;
+	background-image: url(images/Beastie.gif);
+	border-radius: 9px;
+	margin: 10px auto 10px auto;
+}
+
+.carderic{
+	display: block;
+	height: 250px;
+	width: 400px;
+	background-image: url(images/eric.gif);
+	border-radius: 9px;
+	margin: 10px auto 10px auto;
+}
+
+.cardvinyl{
+	display: block;
+	height: 250px;
+	width: 400px;
+	background-image: url(images/vinyl.gif);
+	border-radius: 9px;
+	margin: 10px auto 10px auto;
+}
+
+
+.circlematrix{
+	display: block;
+	height: 400px;
+	width: 300px;
+	background-image:url(images/matrix.gif);
+	border-radius: 999px;
+	margin: 10px auto 10px auto;
+}
+
+.circlemusic{
+	display: block;
+	height: 300px;
+	width: 400px;
+	background-color:blue;
+	border-radius: 999px;
+	margin: 10px auto 10px auto;
+}
+
+.circlevg{
+	display: block;
+	height: 230px;
+	width: 450px;
+	background-color: black;
+	border-radius: 999px;
+	margin: 10px auto 10px auto;
+}
+
+.textpres{
+	font-family: alata;
+	size: 12px;
+	margin-left: 20px;
+	color: #25a9d8;
+}
+
+.textmusic{
+	font-family: alata;
+	size: 12px;
+	margin-top: 20px;
+	margin-left: 30px;
+	color:#FA31FF;
+}
+
+.textmovies{
+	font-family: alata;
+	size: 12px;
+	margin: 30px;
+	color: white;
+}
+
+.textvg{
+	font-family: alata;
+	size: 12px;
+	margin: 30px;
+	margin-top: auto;
+	color: white;
+}
